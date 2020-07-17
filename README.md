@@ -1,3 +1,3 @@
 ### Hello, world 👋
 
-I have been passionate about computer security for many years - you can find a sample of the things that interest me on this Github.
+¯\\_(ツ)_/¯, blogging on https://doar-e.github.io and posting codes on https://github.com/0vercl0k.
