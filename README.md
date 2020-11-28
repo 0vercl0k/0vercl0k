@@ -1,3 +1,22 @@
 ### Hello, world 👋
 
-¯\\_(ツ)_/¯, blogging on https://doar-e.github.io and posting codes on https://github.com/0vercl0k.
+If you made it all the way here, you might as well check out a few of my projects as well as [where I blog](https://doar-e.github.io/) 😊:
+
+#### Browser exploitation
+
+- [CVE-2019-11708](https://github.com/0vercl0k/CVE-2019-11708): Full chain for CVE-2019-11708 & CVE-2019-9810,
+- [CVE-2019-9810](https://github.com/0vercl0k/CVE-2019-9810): RCE exploit for Firefox on Windows,
+- [Blazefox](https://github.com/0vercl0k/blazefox): Exploits for Firefox/Windows 10 RS5.
+
+#### Windows related
+
+- [windbg-scripts](https://github.com/0vercl0k/windbg-scripts): A collection of JavaScript debugger extensions for WinDbg,
+- [kdmp-parser](https://github.com/0vercl0k/kdmp-parser): A Windows kernel dump C++ parser with Python 3 bindings,
+- [sic](https://github.com/0vercl0k/sic): Enumerate user mode shared memory mappings on Windows,
+- [pywinhv](https://github.com/0vercl0k/pywinhv): Toy Python bindings for the Microsoft Hypervisor Platform APIs,
+- [lockmem](https://github.com/0vercl0k/lockmem): Tiny utility to lock every available memory regions of an arbitrary process into its working set.
+
+#### Misc
+
+- [stuffz](https://github.com/0vercl0k/stuffz): My personal script thrift shop,
+- [z3-playground](https://github.com/0vercl0k/z3-playground): A bunch of Z3-python scripts that can be used as examples, reminders, etc.
