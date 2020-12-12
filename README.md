@@ -12,9 +12,10 @@ If you made it all the way here, you might as well check out a few of my project
 
 - [windbg-scripts](https://github.com/0vercl0k/windbg-scripts): A collection of JavaScript debugger extensions for WinDbg,
 - [kdmp-parser](https://github.com/0vercl0k/kdmp-parser): A Windows kernel dump C++ parser with Python 3 bindings,
+- [symbolizer](https://github.com/0vercl0k/symbolizer): A fast execution trace symbolizer for Windows,
 - [sic](https://github.com/0vercl0k/sic): Enumerate user mode shared memory mappings on Windows,
 - [pywinhv](https://github.com/0vercl0k/pywinhv): Toy Python bindings for the Microsoft Hypervisor Platform APIs,
-- [lockmem](https://github.com/0vercl0k/lockmem): Tiny utility to lock every available memory regions of an arbitrary process into its working set.
+- [lockmem](https://github.com/0vercl0k/lockmem): Lock every available memory regions of an arbitrary process into its working set.
 
 #### Misc
 
