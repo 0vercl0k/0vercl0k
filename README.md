@@ -22,3 +22,4 @@ If you made it all the way here, you might as well check out a few of my project
 
 - [stuffz](https://github.com/0vercl0k/stuffz): My personal script thrift shop,
 - [z3-playground](https://github.com/0vercl0k/z3-playground): A bunch of Z3-python scripts that can be used as examples, reminders, etc.
+- [teesee-calc](https://github.com/0vercl0k/teesee-calc): A simple web application that allows you to visualize and compare total compensation packages.
