@@ -16,7 +16,8 @@ If you made it all the way here, you might as well check out a few of my project
 - [symbolizer](https://github.com/0vercl0k/symbolizer): A fast execution trace symbolizer for Windows,
 - [sic](https://github.com/0vercl0k/sic): Enumerate user mode shared memory mappings on Windows,
 - [pywinhv](https://github.com/0vercl0k/pywinhv): Toy Python bindings for the Microsoft Hypervisor Platform APIs,
-- [lockmem](https://github.com/0vercl0k/lockmem): Lock every available memory regions of an arbitrary process into its working set.
+- [lockmem](https://github.com/0vercl0k/lockmem): Lock every available memory regions of an arbitrary process into its working set,
+- [CVE-2021-24086](https://github.com/0vercl0k/CVE-2021-24086): PoC for CVE-2021-24086, a NULL dereference in tcpip.sys triggered remotely.
 
 #### Misc
 
