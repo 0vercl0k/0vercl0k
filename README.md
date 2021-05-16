@@ -17,7 +17,8 @@ If you made it all the way here, you might as well check out a few of my project
 - [sic](https://github.com/0vercl0k/sic): Enumerate user mode shared memory mappings on Windows,
 - [pywinhv](https://github.com/0vercl0k/pywinhv): Toy Python bindings for the Microsoft Hypervisor Platform APIs,
 - [lockmem](https://github.com/0vercl0k/lockmem): Lock every available memory regions of an arbitrary process into its working set,
-- [CVE-2021-24086](https://github.com/0vercl0k/CVE-2021-24086): PoC for CVE-2021-24086, a NULL dereference in tcpip.sys triggered remotely.
+- [CVE-2021-24086](https://github.com/0vercl0k/CVE-2021-24086): PoC for CVE-2021-24086, a NULL dereference in tcpip.sys triggered remotely,
+- [CVE-2021-31166](https://github.com/0vercl0k/CVE-2021-31166): PoC for CVE-2021-31166, a use-after-free in http.sys triggered remotely.
 
 #### Misc
 
