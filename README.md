@@ -19,10 +19,12 @@ If you made it all the way here, you might as well check out a few of my project
 - [lockmem](https://github.com/0vercl0k/lockmem): Lock every available memory regions of an arbitrary process into its working set,
 - [CVE-2021-24086](https://github.com/0vercl0k/CVE-2021-24086): PoC for CVE-2021-24086, a NULL dereference in tcpip.sys triggered remotely,
 - [CVE-2021-31166](https://github.com/0vercl0k/CVE-2021-31166): PoC for CVE-2021-31166, a use-after-free in http.sys triggered remotely,
-- [CVE-2021-28476](https://github.com/0vercl0k/CVE-2021-28476): PoC for CVE-2021-28476, a guest-to-host "Hyper-V Remote Code Execution Vulnerability".
+- [CVE-2021-28476](https://github.com/0vercl0k/CVE-2021-28476): PoC for CVE-2021-28476, a guest-to-host "Hyper-V Remote Code Execution Vulnerability",
+- [Modern Debugging with WinDbg Preview](https://github.com/hugsy/defcon_27_windbg_workshop): Workshop that [@hugsy](https://github.com/hugsy) and I ran during Defcon 27.
 
 #### Misc
 
 - [stuffz](https://github.com/0vercl0k/stuffz): My personal script thrift shop,
 - [z3-playground](https://github.com/0vercl0k/z3-playground): A bunch of Z3-python scripts that can be used as examples, reminders, etc.
+- [Theorem prover, symbolic execution and practical reverse-engineering](https://doar-e.github.io/presentations/securityday2015/SecDay-Lille-2015-Axel-0vercl0k-Souchet.html#/): Presentation I gave in Lille, France in 2015,
 - [teesee-calc](https://github.com/0vercl0k/teesee-calc): A simple web application that allows you to visualize and compare total compensation packages.
