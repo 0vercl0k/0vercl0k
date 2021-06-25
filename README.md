@@ -20,6 +20,7 @@ If you made it all the way here, you might as well check out a few of my project
 - [CVE-2021-24086](https://github.com/0vercl0k/CVE-2021-24086): PoC for CVE-2021-24086, a NULL dereference in tcpip.sys triggered remotely,
 - [CVE-2021-31166](https://github.com/0vercl0k/CVE-2021-31166): PoC for CVE-2021-31166, a use-after-free in http.sys triggered remotely,
 - [CVE-2021-28476](https://github.com/0vercl0k/CVE-2021-28476): PoC for CVE-2021-28476, a guest-to-host "Hyper-V Remote Code Execution Vulnerability",
+- [CVE-2021-32537](https://github.com/0vercl0k/CVE-2021-32537): PoC for CVE-2021-32537, an out-of-bounds memory access that leads to pool corruption in the Windows kernel,
 - [Modern Debugging with WinDbg Preview](https://github.com/hugsy/defcon_27_windbg_workshop): Workshop that [@hugsy](https://github.com/hugsy) and I ran during Defcon 27.
 
 #### Misc
