@@ -10,6 +10,7 @@ If you made it all the way here, you might as well check out a few of my project
 
 #### Windows related
 
+- [wtf](https://github.com/0vercl0k/wtf): A distributed, code-coverage guided, customizable, cross-platform snapshot-based fuzzer designed for attacking user and / or kernel-mode targets running on Microsoft Windows,
 - [windbg-scripts](https://github.com/0vercl0k/windbg-scripts): A collection of JavaScript debugger extensions for WinDbg,
 - [kdmp-parser](https://github.com/0vercl0k/kdmp-parser): A Windows kernel dump C++ parser with Python 3 bindings,
 - [🔮 clairvoyance](https://github.com/0vercl0k/clairvoyance): Visualize the virtual address space of a Windows process on a Hilbert curve,
