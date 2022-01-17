@@ -26,6 +26,7 @@ If you made it all the way here, you might as well check out a few of my project
 
 #### Misc
 
+- [rp](https://github.com/0vercl0k/rp): a fast C++ ROP gadget finder for PE/ELF/Mach-O x86/x64/ARM binaries.
 - [stuffz](https://github.com/0vercl0k/stuffz): My personal script thrift shop,
 - [z3-playground](https://github.com/0vercl0k/z3-playground): A bunch of Z3-python scripts that can be used as examples, reminders, etc.
 - [Theorem prover, symbolic execution and practical reverse-engineering](https://doar-e.github.io/presentations/securityday2015/SecDay-Lille-2015-Axel-0vercl0k-Souchet.html#/): Presentation I gave in Lille, France in 2015,
