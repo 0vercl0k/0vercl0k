@@ -12,7 +12,8 @@ If you made it all the way here, you might as well check out a few of my project
 
 - [wtf](https://github.com/0vercl0k/wtf): A distributed, code-coverage guided, customizable, cross-platform snapshot-based fuzzer designed for attacking user and / or kernel-mode targets running on Microsoft Windows,
 - [windbg-scripts](https://github.com/0vercl0k/windbg-scripts): A collection of JavaScript debugger extensions for WinDbg,
-- [kdmp-parser](https://github.com/0vercl0k/kdmp-parser): A Windows kernel dump C++ parser with Python 3 bindings,
+- [kdmp-parser](https://github.com/0vercl0k/kdmp-parser): A Windows kernel dump C++ parser library with Python 3 bindings,
+- [udmp-parser](https://github.com/0vercl0k/udmp-parser): A Windows user minidump C++ parser library,
 - [🔮 clairvoyance](https://github.com/0vercl0k/clairvoyance): Visualize the virtual address space of a Windows process on a Hilbert curve,
 - [symbolizer](https://github.com/0vercl0k/symbolizer): A fast execution trace symbolizer for Windows,
 - [sic](https://github.com/0vercl0k/sic): Enumerate user mode shared memory mappings on Windows,
@@ -26,7 +27,7 @@ If you made it all the way here, you might as well check out a few of my project
 
 #### Misc
 
-- [rp](https://github.com/0vercl0k/rp): a fast C++ ROP gadget finder for PE/ELF/Mach-O x86/x64/ARM binaries.
+- [rp](https://github.com/0vercl0k/rp): a fast C++ ROP gadget finder for PE/ELF/Mach-O x86/x64/ARM binaries,
 - [stuffz](https://github.com/0vercl0k/stuffz): My personal script thrift shop,
 - [z3-playground](https://github.com/0vercl0k/z3-playground): A bunch of Z3-python scripts that can be used as examples, reminders, etc.
 - [Theorem prover, symbolic execution and practical reverse-engineering](https://doar-e.github.io/presentations/securityday2015/SecDay-Lille-2015-Axel-0vercl0k-Souchet.html#/): Presentation I gave in Lille, France in 2015,
