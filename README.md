@@ -1,6 +1,6 @@
 ### Hello, world 👋
 
-If you made it all the way here, you might as well check out a few of my projects as well as [where I blog](https://doar-e.github.io/) 😊:
+If you made it all the way here, you might as well check out a few of my projects and [where I blog](https://doar-e.github.io/) 😊. Oh, and if you want to say hi, come hangout on the [Diary of a reverse-engineer](https://doar-e.github.io/)'s discord: [invite](https://discord.gg/4JBWKDNyYs)!
 
 #### Browser exploitation
 
