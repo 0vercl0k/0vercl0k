@@ -18,6 +18,7 @@ If you made it all the way here, you might as well check out some of my projects
 
 #### Exploitation
 
+- [Longue vue](https://github.com/0vercl0k/longue-vue): Over-the-web remote compromise exploit chain for NETGEAR DGND3700v2 devices,
 - [Zenith](https://github.com/0vercl0k/zenith): Remote kernel exploit for the TP-Link AC1750 Smart Wi-Fi Router (Pwn2Own Austin 2021),
 - [CVE-2019-11708](https://github.com/0vercl0k/CVE-2019-11708): Full chain for CVE-2019-11708 & CVE-2019-9810,
 - [CVE-2019-9810](https://github.com/0vercl0k/CVE-2019-9810): RCE exploit for Firefox on Windows.
