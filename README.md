@@ -10,6 +10,7 @@ If you made it all the way here, you might as well check out some of my projects
 - [🔮 clairvoyance](https://github.com/0vercl0k/clairvoyance): Visualize the virtual address space of a Windows process on a Hilbert curve,
 - [symbolizer](https://github.com/0vercl0k/symbolizer): A fast execution trace symbolizer for Windows,
 - [SiC](https://github.com/0vercl0k/sic): Enumerate user mode shared memory mappings on Windows,
+- [KEPaboo](https://github.com/0vercl0k/KEPaboo): Neutralize KEPServerEX anti-debugging techniques,
 - [CVE-2021-24086](https://github.com/0vercl0k/CVE-2021-24086): PoC for CVE-2021-24086, a NULL dereference in tcpip.sys triggered remotely,
 - [CVE-2021-31166](https://github.com/0vercl0k/CVE-2021-31166): PoC for CVE-2021-31166, a use-after-free in http.sys triggered remotely,
 - [CVE-2021-28476](https://github.com/0vercl0k/CVE-2021-28476): PoC for CVE-2021-28476, a guest-to-host "Hyper-V Remote Code Execution Vulnerability",
