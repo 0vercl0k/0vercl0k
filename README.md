@@ -23,6 +23,7 @@ If you made it all the way here, you might as well check out some of my projects
 - [Paracosme](https://github.com/0vercl0k/paracosme): Zero-click remote memory corruption exploit that compromises ICONICS Genesis64 (Pwn2Own Miami 2022),
 - [Longue vue](https://github.com/0vercl0k/longue-vue): Over-the-web remote compromise exploit chain for NETGEAR DGND3700v2 devices,
 - [Zenith](https://github.com/0vercl0k/zenith): Remote kernel exploit for the TP-Link AC1750 Smart Wi-Fi Router (Pwn2Own Austin 2021),
+- [Pwn2Own Miami 2023](https://github.com/0vercl0k/pwn2own2023-miami): Writeups/PoCs for bugs I found while preparing for Pwn2Own Miami 2023 targeting UaGateway in the OPC UA Server category,
 - [CVE-2019-11708](https://github.com/0vercl0k/CVE-2019-11708): Full chain for CVE-2019-11708 & CVE-2019-9810,
 - [CVE-2019-9810](https://github.com/0vercl0k/CVE-2019-9810): RCE exploit for Firefox on Windows.
 
