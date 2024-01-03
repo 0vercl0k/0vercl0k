@@ -11,11 +11,8 @@ If you made it all the way here, you might as well check out some of my projects
 - [symbolizer](https://github.com/0vercl0k/symbolizer): A fast execution trace symbolizer for Windows,
 - [SiC](https://github.com/0vercl0k/sic): Enumerate user mode shared memory mappings on Windows,
 - [KEPaboo](https://github.com/0vercl0k/KEPaboo): Neutralize KEPServerEX anti-debugging techniques,
-- [CVE-2021-24086](https://github.com/0vercl0k/CVE-2021-24086): PoC for CVE-2021-24086, a NULL dereference in tcpip.sys triggered remotely,
-- [CVE-2021-31166](https://github.com/0vercl0k/CVE-2021-31166): PoC for CVE-2021-31166, a use-after-free in http.sys triggered remotely,
-- [CVE-2021-28476](https://github.com/0vercl0k/CVE-2021-28476): PoC for CVE-2021-28476, a guest-to-host "Hyper-V Remote Code Execution Vulnerability",
-- [CVE-2021-32537](https://github.com/0vercl0k/CVE-2021-32537): PoC for CVE-2021-32537, an out-of-bounds memory access that leads to pool corruption in the Windows kernel,
-- [CVE-2022-28281](https://github.com/0vercl0k/CVE-2022-28281): PoC for CVE-2022-28281, a Mozilla Firefox Out of bounds write,
+- [rp-bf.rs](https://github.com/0vercl0k/rp-bf.rs): A library to bruteforce ROP gadgets by emulating a Windows user-mode crash-dump,
+- Various CVE PoCs for `tcpip.sys` ([CVE-2021-24086](https://github.com/0vercl0k/CVE-2021-24086)), `http.sys` ([CVE-2021-31166](https://github.com/0vercl0k/CVE-2021-31166)), Hyper-V ([CVE-2021-28476](https://github.com/0vercl0k/CVE-2021-28476)), Realtek's `RTKVHD64.sys` driver ([CVE-2021-32537](https://github.com/0vercl0k/CVE-2021-32537)) and the Mozilla browser ([CVE-2022-28281](https://github.com/0vercl0k/CVE-2022-28281)),
 - [Modern Debugging with WinDbg Preview](https://github.com/hugsy/defcon_27_windbg_workshop): Workshop that [@hugsy](https://github.com/hugsy) and I ran during Defcon 27.
 
 #### Exploitation
