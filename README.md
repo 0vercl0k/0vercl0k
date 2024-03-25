@@ -6,7 +6,7 @@ If you made it all the way here, you might as well check out some of my projects
 
 - [wtf](https://github.com/0vercl0k/wtf): A distributed, code-coverage guided, customizable, cross-platform snapshot-based fuzzer designed for attacking user and / or kernel-mode targets running on Microsoft Windows,
 - [windbg-scripts](https://github.com/0vercl0k/windbg-scripts): A collection of JavaScript debugger extensions for WinDbg,
-- [kdmp-parser](https://github.com/0vercl0k/kdmp-parser) / [udmp-parser](https://github.com/0vercl0k/udmp-parser): C++ libraries to parse Windows kernel and usermode dumps ([udmp-parser-rs](https://lib.rs/crates/udmp-parser-rs) for a Rust crate),
+- [kdmp-parser](https://github.com/0vercl0k/kdmp-parser) / [udmp-parser](https://github.com/0vercl0k/udmp-parser): C++ libraries to parse Windows kernel and usermode dumps ([udmp-parser-rs](https://lib.rs/crates/udmp-parser-rs) / [kdmp-parser-rs](https://lib.rs/crates/kdmp-parser) for Rust crates),
 - [🔮 clairvoyance](https://github.com/0vercl0k/clairvoyance): Visualize the virtual address space of a Windows process on a Hilbert curve,
 - [symbolizer](https://github.com/0vercl0k/symbolizer): A fast execution trace symbolizer for Windows,
 - [SiC](https://github.com/0vercl0k/sic): Enumerate user mode shared memory mappings on Windows,
