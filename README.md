@@ -8,7 +8,7 @@ If you made it all the way here, you might as well check out some of my projects
 - [windbg-scripts](https://github.com/0vercl0k/windbg-scripts): A collection of JavaScript debugger extensions for WinDbg,
 - [kdmp-parser](https://github.com/0vercl0k/kdmp-parser) / [udmp-parser](https://github.com/0vercl0k/udmp-parser): C++ libraries to parse Windows kernel and usermode dumps ([udmp-parser-rs](https://crates.io/crates/udmp-parser) / [kdmp-parser-rs](https://crates.io/crates/kdmp-parser) for Rust crates),
 - [🔮 clairvoyance](https://github.com/0vercl0k/clairvoyance): Visualize the virtual address space of a Windows process on a Hilbert curve,
-- [symbolizer](https://github.com/0vercl0k/symbolizer): A fast execution trace symbolizer for Windows,
+- [symbolizer-rs](https://github.com/0vercl0k/symbolizer-rs): A fast execution trace symbolizer for Windows that runs on all major platforms and doesn't depend on any Microsoft libraries,
 - [SiC](https://github.com/0vercl0k/sic): Enumerate user mode shared memory mappings on Windows,
 - [KEPaboo](https://github.com/0vercl0k/KEPaboo): Neutralize KEPServerEX anti-debugging techniques,
 - [rp-bf.rs](https://github.com/0vercl0k/rp-bf.rs): A library to bruteforce ROP gadgets by emulating a Windows user-mode crash-dump,
