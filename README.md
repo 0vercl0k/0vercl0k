@@ -30,3 +30,7 @@ If you made it all the way here, you might as well check out some of my projects
 - [z3-playground](https://github.com/0vercl0k/z3-playground): A bunch of Z3-python scripts that can be used as examples, reminders, etc.
 - [Theorem prover, symbolic execution and practical reverse-engineering](https://doar-e.github.io/presentations/securityday2015/SecDay-Lille-2015-Axel-0vercl0k-Souchet.html#/): Presentation I gave in Lille, France in 2015,
 - [teesee-calc](https://github.com/0vercl0k/teesee-calc): A simple web application that allows you to visualize and compare total compensation packages.
+
+ #### Stats 
+
+![stats](https://github-readme-stats.vercel.app/api?username=0vercl0k&show_icons=true&theme=dark&count_private=true)
